@@ -1,0 +1,44 @@
+#Monthly avg aggregation over 2007
+avg consumption (watt-hours) over (a) Kitchen, (b) Laundry, (c) A/C
+
+## Kitchen
+* January  	1.4615384615384615
+* April    	0.0
+* August   	0.11111111111111108
+* December	0.09090909090909088
+* May      	3.0
+* October  	0.0
+* June     	0.0
+* September	0.125
+* March    	0.0
+* July     	2.8461538461538463
+* February 	0.0
+* November	0.0
+
+## Laundry
+* January  	0.6923076923076923
+* April    	0.5555555555555556
+* August   	0.33333333333333337
+* December	3.3636363636363638
+* May      	0.33333333333333337
+* October  	0.5714285714285714
+* June     	0.6363636363636365
+* September	0.875
+* March    	0.07692307692307693
+* July     	0.7692307692307693
+* February 	0.4
+* November	0.7777777777777779
+
+## AC
+* January  	8.0
+* April    	1.8888888888888888
+* August   	3.7777777777777772
+* December	11.454545454545455
+* May      	4.166666666666666
+* October  	5.142857142857143
+* June     	1.5454545454545456
+* September	2.125
+* March    	5.769230769230769
+* July     	2.538461538461538
+* February 	7.2
+* November	6.0
