@@ -1,5 +1,5 @@
 # CreateAggregatedStatistics-Analyst
-We have build a software system that can be used by a analyst to be able to draw conclusions about energy consumption in relation to period of time.
+I have build a software system that can be used by a analyst to be able to draw conclusions about energy consumption in relation to period of time.
 An analyst would want to know the answers to questions such as (a) what period of the day his or her consumption
 (b) at what time of day is the laundry room at its maximum (c) which period of the year / which month is the
 heating consumption is minimum/maximum (d) the energy consumption in the kitchen changes
